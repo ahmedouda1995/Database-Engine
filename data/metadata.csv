@@ -1,0 +1,4 @@
+Table Name, Column Name, Column Type, Key, Indexed, References
+csStudent,Name,java.lang.String,False,False,null
+csStudent,ID,java.lang.String,True,True,null
+csStudent,TouchDate,java.util.Date,false,false,null
